@@ -2,38 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BenYourKing Blog</title>
-    <link>https://zhaohuabing.com/categories/</link>
+    <link>https://iamyourking007.github.io/categories/</link>
     <description>Recent content in Categories on BenYourKing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zhaohuabing.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iamyourking007.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Life</title>
-      <link>https://zhaohuabing.com/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>LIFE</title>
+      <link>https://iamyourking007.github.io/categories/life/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/life/</guid>
+      <guid>https://iamyourking007.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://iamyourking007.github.io/categories/life/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamyourking007.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://zhaohuabing.com/categories/tech/</link>
+      <link>https://iamyourking007.github.io/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tech/</guid>
+      <guid>https://iamyourking007.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://zhaohuabing.com/categories/tips/</link>
+      <link>https://iamyourking007.github.io/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tips/</guid>
+      <guid>https://iamyourking007.github.io/categories/tips/</guid>
       <description></description>
     </item>
     

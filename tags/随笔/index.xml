@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on BenYourKing Blog</title>
+    <link>https://iamyourking007.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on BenYourKing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iamyourking007.github.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It is time to change</title>
+      <link>https://iamyourking007.github.io/post/myblog/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamyourking007.github.io/post/myblog/</guid>
+      <description>时间和精力就那么一点， 还是花在真正重要的人和事情上吧~ 是时候彻底的改变自己了！</description>
+    </item>
+    
+  </channel>
+</rss>

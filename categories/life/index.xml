@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on BenYourKing Blog</title>
-    <link>https://zhaohuabing.com/categories/life/</link>
+    <link>https://iamyourking007.github.io/categories/life/</link>
     <description>Recent content in Life on BenYourKing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhaohuabing.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iamyourking007.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>An Introduction of Ben.YourKing</title>
+      <link>https://iamyourking007.github.io/post/introduction/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamyourking007.github.io/post/introduction/</guid>
+      <description>吴友钦，江湖名：小天使，他自己给自己取了个英文名：Ben.YourKing！ (&amp;ldquo;Ben&amp;rdquo;是《疯狂农场》电影里一个角色</description>
+    </item>
+    
+    <item>
       <title>川西秘境探险</title>
-      <link>https://zhaohuabing.com/2018/05/01/may-day-jiulonghu/</link>
+      <link>https://iamyourking007.github.io/2018/05/01/may-day-jiulonghu/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/01/may-day-jiulonghu/</guid>
+      <guid>https://iamyourking007.github.io/2018/05/01/may-day-jiulonghu/</guid>
       <description>&lt;h2 id=&#34;寻浮云牧场不遇&#34;&gt;寻浮云牧场不遇&lt;/h2&gt;
 
 &lt;p&gt;五一节前的一周内，几个朋友就纷纷坐不住了，一个二个不再安心上班，开始在微信群里讨论过节要到哪里耍。
