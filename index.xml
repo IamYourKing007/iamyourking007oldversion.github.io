@@ -30,12 +30,24 @@
     </item>
     
     <item>
+      <title>Welcome to BenYourKing Blog</title>
+      <link>https://iamyourking007.github.io/2019/04/24/hello-world/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamyourking007.github.io/2019/04/24/hello-world/</guid>
+      <description>  “Yeah It&amp;rsquo;s on. ”
+ Hello World! </description>
+    </item>
+    
+    <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://iamyourking007.github.io/post/readme/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://iamyourking007.github.io/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme.
+It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme.
+These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed.</description>
     </item>
     
     <item>
@@ -270,15 +282,6 @@ export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
     </item>
     
     <item>
-      <title>Welcome to Zhaohuabing Blog</title>
-      <link>https://iamyourking007.github.io/2017/11/03/hello-world/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamyourking007.github.io/2017/11/03/hello-world/</guid>
-      <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://iamyourking007.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,9 +296,10 @@ export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iamyourking007.github.io/top/about/</guid>
-      <description>BenYourKing is a graduate student of NJU . He has a solid experience in the telecommunication and information technology industry for more than 17 years.
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.</description>
+      <description>BenYourKing is a graduate student in the school of journalism and communication of NanJing University.
+He&amp;rsquo;s major is computational social science. He has a strong interest in ML and NLP.
+He has a solid experience in the network and new media industry for more than 5 years.
+Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.</description>
     </item>
     
     <item>
