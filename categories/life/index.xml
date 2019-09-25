@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LIFE on BenYourKing Blog</title>
+    <title>Life on BenYourKing Blog</title>
     <link>https://iamyourking007.github.io/categories/life/</link>
-    <description>Recent content in LIFE on BenYourKing Blog</description>
+    <description>Recent content in Life on BenYourKing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iamyourking007.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>It is time to change</title>
-      <link>https://iamyourking007.github.io/post/myblog/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      <title>An Introduction of Ben.YourKing</title>
+      <link>https://iamyourking007.github.io/post/introduction/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://iamyourking007.github.io/post/myblog/</guid>
-      <description>时间和精力就那么一点， 还是花在真正重要的人和事情上吧~ 是时候彻底的改变自己了！</description>
-    </item>
-    
-  </channel>
-</rss>��一个角色</description>
+      <guid>https://iamyourking007.github.io/post/introduction/</guid>
+      <description>吴友钦，江湖名：小天使，他自己给自己取了个英文名：Ben.YourKing！ (&amp;ldquo;Ben&amp;rdquo;是《疯狂农场》电影里一个角色</description>
     </item>
     
     <item>
