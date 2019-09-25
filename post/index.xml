@@ -51,6 +51,15 @@ These two upstream projects have done awesome jobs to create a blog theme, what 
     </item>
     
     <item>
+      <title>An Example Post</title>
+      <link>https://iamyourking007.github.io/post/blogblog/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamyourking007.github.io/post/blogblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Istio v1aplha3 routing API介绍(译文）</title>
       <link>https://iamyourking007.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
